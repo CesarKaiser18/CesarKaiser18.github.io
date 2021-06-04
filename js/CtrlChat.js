@@ -1,4 +1,4 @@
-import {
+import  {
   getAuth,
   getFirestore
 } from "../lib/fabrica.js";
